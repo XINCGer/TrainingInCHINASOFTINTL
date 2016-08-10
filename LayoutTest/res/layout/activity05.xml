@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:foreground="@drawable/ic_launcher"
+    android:foregroundGravity="center_horizontal|top" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ff7390"
+        android:gravity="bottom"
+        android:text="帧布局介绍" />
+
+    <TextView
+        android:layout_width="290dp"
+        android:layout_height="290dp"
+        android:background="#342df3"
+        android:gravity="top|right"
+        android:text="第一层" />
+
+    <TextView
+        android:layout_width="190dp"
+        android:layout_height="190dp"
+        android:background="#df358a"
+        android:gravity="top|right"
+        android:text="第二层" />
+
+    <TextView
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:background="#8a4c2d"
+        android:gravity="top|right"
+        android:text="第三层" />
+
+</FrameLayout>

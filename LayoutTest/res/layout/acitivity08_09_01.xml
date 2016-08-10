@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@android:color/holo_green_light"
+        android:text="I&apos;am a "
+        android:textColor="#000000"
+        android:textSize="25sp" />
+
+    <EditText
+        android:id="@+id/et_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:hint="只能输入10位数字..."
+        android:maxLength="10"
+        android:numeric="decimal|signed" />
+
+    <AutoCompleteTextView
+        android:id="@+id/autoView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="自动完成提示" />
+
+    <MultiAutoCompleteTextView
+        android:id="@+id/multiAutoView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="自动完成提示" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="按钮" />
+
+    <TextView
+        android:id="@+id/tv_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="您选择的编程语言是：" />
+
+    <RadioGroup
+        android:id="@+id/radiogroup1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <RadioButton
+            android:id="@+id/java"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Java" />
+
+        <RadioButton
+            android:id="@+id/python"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Python" />
+
+        <RadioButton
+            android:id="@+id/ruby"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ruby" />
+
+        <RadioButton
+            android:id="@+id/erlang"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Erlang" />
+    </RadioGroup>
+
+</LinearLayout>
