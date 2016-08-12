@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.zs.demo08_10.MainActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    <item
+        android:id="@+id/item1"
+        android:title="进度条演示"/>
+    <item
+        android:id="@+id/item2"
+        android:title="滑动条演示"/>
+        <item
+        android:id="@+id/item3"
+        android:title="评分条演示"/>
+
+</menu>
