@@ -5,3 +5,6 @@
 * SeekBar练习  
 * ProgressBar练习  
 * Button练习
+
+> 设置按下和弹起的图案：<selector>  
+设置按钮的圆角渐变等： <shape>
