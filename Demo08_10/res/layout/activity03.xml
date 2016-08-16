@@ -3,17 +3,25 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical" >
-    <RatingBar 
+
+    <RatingBar
         android:id="@+id/rb_1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:numStars="5"
-        android:rating="4"/>
+        android:rating="4" />
 
-    <TextView 
+    <TextView
         android:id="@+id/tv_3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="25sp"
-        android:text="亲。请您打分！"/>
+        android:text="亲。请您打分！"
+        android:textSize="25sp" />
+
+  	<Button 
+  	    android:id="@+id/submit"
+  	    android:layout_width="wrap_content"
+  	    android:layout_height="wrap_content"
+  	    android:text="提交"/>
+
 </LinearLayout>
