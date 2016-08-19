@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<persons>
+    <person age="18" gender="男">Jack</person>
+    <person age="19" gender="女">Jane</person>
+    <person age="18" gender="男">Jhon</person>
+    <person age="20" gender="女">Rose</person>
+    <person age="18" gender="男">Jim</person>
+</persons>
