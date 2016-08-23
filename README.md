@@ -7,4 +7,5 @@
 >* [【Day0810】Android控件练习1](https://github.com/XINCGer/TrainingInCHINASOFTINTL/tree/master/Demo08_10)  
 >* [【Day0811】Android控件练习2](https://github.com/XINCGer/TrainingInCHINASOFTINTL/tree/master/Demo_08_11)  
 >* [【Day0812】Android控件练习3](https://github.com/XINCGer/TrainingInCHINASOFTINTL/tree/master/Demo_08_12)
->* [【Day0815】GridView控件及Intent练习](https://github.com/XINCGer/TrainingInCHINASOFTINTL/tree/master/Demo_08_15)
+>* [【Day0815】GridView控件及Intent练习](https://github.com/XINCGer/TrainingInCHINASOFTINTL/tree/master/Demo_08_15)  
+>* [【Day0816】Gallery控件和XML解析练习](https://github.com/XINCGer/TrainingInCHINASOFTINTL/tree/master/Demo_08_16)
