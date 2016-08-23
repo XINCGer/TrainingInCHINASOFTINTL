@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.demo_08_16.MainActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    <item
+        android:id="@+id/gallery_show"
+        android:title="画廊演示"/>
+    <item
+        android:id="@+id/gallery_show1"
+        android:title="画廊演示2"/>
+
+</menu>
