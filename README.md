@@ -11,4 +11,5 @@
 >* [【Day0816】Gallery控件和XML解析练习](https://github.com/XINCGer/TrainingInCHINASOFTINTL/tree/master/Demo_08_16)  
 >* [【Day0817】读取asset下的资源文件](https://github.com/XINCGer/TrainingInCHINASOFTINTL/tree/master/Demo_08_17)  
 >* [【Day0818】ListView练习、序列化练习](https://github.com/XINCGer/TrainingInCHINASOFTINTL/tree/master/Demo_08_18)  
->* [【Day0821】Android单位详解](https://github.com/XINCGer/TrainingInCHINASOFTINTL/tree/master/unit)
+>* [【Day0821】Android单位详解](https://github.com/XINCGer/TrainingInCHINASOFTINTL/tree/master/unit)  
+>* [【Day0826】E新闻客户端UI设计文档](https://github.com/XINCGer/TrainingInCHINASOFTINTL/blob/master/E%E6%96%B0%E9%97%BB%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%96%87%E6%A1%A3.docx)
