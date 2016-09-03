@@ -13,4 +13,5 @@
 >* [【Day0818】ListView练习、序列化练习](https://github.com/XINCGer/TrainingInCHINASOFTINTL/tree/master/Demo_08_18)  
 >* [【Day0821】Android单位详解](https://github.com/XINCGer/TrainingInCHINASOFTINTL/tree/master/unit)  
 >* [【Day0826】E新闻客户端UI设计文档](https://github.com/XINCGer/TrainingInCHINASOFTINTL/blob/master/E%E6%96%B0%E9%97%BB%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%96%87%E6%A1%A3.docx)   
->* [【Day0829】Activity之间五种跳转传值详解](https://github.com/XINCGer/TrainingInCHINASOFTINTL/tree/master/Activity%E4%B9%8B%E9%97%B4%E4%BA%94%E7%A7%8D%E8%B7%B3%E8%BD%AC%E4%BC%A0%E5%80%BC%E8%AF%A6%E8%A7%A3)
+>* [【Day0829】Activity之间五种跳转传值详解](https://github.com/XINCGer/TrainingInCHINASOFTINTL/tree/master/Activity%E4%B9%8B%E9%97%B4%E4%BA%94%E7%A7%8D%E8%B7%B3%E8%BD%AC%E4%BC%A0%E5%80%BC%E8%AF%A6%E8%A7%A3)  
+>* [【Day0901】碎片化](https://github.com/XINCGer/TrainingInCHINASOFTINTL/tree/master/%E9%AD%94%E5%85%BD%E7%A2%8E%E7%89%87%E6%A1%88%E4%BE%8B/app)
